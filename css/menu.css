@@ -1,0 +1,25 @@
+.mimenu{
+    background-color: rgb(244, 80, 80);
+    padding: 10px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.mimenu li a{
+    text-decoration: none; /*quita subrayado*/
+    color:black;
+    padding: 25px;
+    margin: 20px;    
+}
+
+.mimenu li a:hover{ /*cuando el curso pasa encima*/
+    color:white;
+    background-color: rgb(71, 5, 15);
+}
+
+
+.mimenu li{
+    list-style: none; /*quita viñetas*/
+    display: inline-block; /*linea horizontal*/
+}

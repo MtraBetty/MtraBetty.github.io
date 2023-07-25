@@ -1,0 +1,44 @@
+/**{
+    background-color: aquamarine;
+}*/
+.container{
+    width: 90%;
+    height: 100%;
+}
+.header,.footer{
+    width: 90%;
+    height: 100px;
+    background-color: red;
+}
+.main-content{
+    width: 90%;
+    height: 1000px;
+    background-color: rgb(142, 107, 107); 
+}
+.box1{
+    width:31%;
+    height: 350px;
+    background-color: black;
+    margin: 10px;
+    padding: 20px;
+    float: left;
+}
+.box2{
+    width: 40%;
+    height: 800px;
+    background-color: black;
+    margin: 10px;
+    float:left;
+}
+.box3{
+    width: 40%;
+    height: 400px;
+    background-color: black;
+    margin: 10px;
+    float: left;
+    margin-top: -400px;
+}
+
+ul {
+    list-style-type: square;
+  }

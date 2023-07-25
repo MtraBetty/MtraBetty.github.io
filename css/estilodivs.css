@@ -1,0 +1,48 @@
+.container{
+    width:80%;
+    height:90%;
+    background-color:rgb(248, 220, 220);
+    margin: 5%;
+}
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    background-color: rgb(154, 246, 215);
+    width: 90%;
+    height: 50px;
+    margin: 5%;
+    padding: 10px;
+}
+.main{
+    background-color: rgb(243, 146, 146);
+    width: 90%;
+    height: 90%;
+    margin: 5%;
+    padding: 10px;
+}
+
+.box{
+    width: 40%;
+    height: 250px;
+    background-color: blue;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+
+}
+
+.footer{
+    background-color:rgb(217, 244, 201);
+    width: 90%;
+    height: 50px;
+    margin: 5%;
+    padding: 10px;
+}
+
+.section{
+    background-color: blueviolet;
+    width: 80%;
+    height: 30%;
+    margin: 10px;
+    padding: 20px;
+}
